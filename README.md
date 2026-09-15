@@ -59,11 +59,3 @@ cd organic-consumer-segmentation
 pip install -r requirements.txt
 jupyter notebook notebook/organic_consumer_analysis.ipynb
 ```
-
-## Team
-
-**THINK CORE** — Pranav Mishra & Arhan Ansari
-
-## License
-
-This project is for academic/competition purposes. Dataset and business case adapted for the Analytica Challenge, Sankalp 11.0, ICAR-NAARM Hyderabad.
